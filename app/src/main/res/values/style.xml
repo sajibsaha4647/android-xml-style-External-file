@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="buttonstyleOnes">
+        <item name="android:layout_width" tools:targetApi="l">match_parent</item>
+        <item name="android:layout_height" tools:targetApi="l">wrap_content</item>
+        <item name="android:textColor" tools:targetApi="l">#fff</item>
+        <item name="android:textSize" tools:targetApi="l">20dp</item>
+        <item name="android:textAlignment" tools:targetApi="l">center</item>
+        <item name="android:textStyle" tools:targetApi="l">bold</item>
+    </style>
+
+    <style name="buttonstyleOnes.buttonstyleTwos">
+        <item name="android:textStyle" tools:targetApi="l">italic</item>
+    </style>
+</resources>
